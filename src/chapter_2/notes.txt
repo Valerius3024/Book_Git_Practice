@@ -2,3 +2,6 @@
 this is editor notes for the book so far
 
 chapter 1 is messy
+
+java is not fun statement is a lie
+java is torture
