@@ -1,0 +1,6 @@
+
+
+we learnt git flow for commit and push
+remote to local
+
+remote -> local
